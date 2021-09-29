@@ -211,4 +211,3 @@ DEFAULT_FROM_EMAIL = 'boutiqueado@example.com'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# useless line so I can commit and push
